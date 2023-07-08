@@ -41,9 +41,9 @@ nav a{
 /* header style start here */
 .header{
     background:#fff8f3;
-    background-image: url('./header_bg.png');
+    background-image: url('./header_bg.png'), url('./developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 .banner{
     padding-left:30px 30px 0px 150px;
